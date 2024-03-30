@@ -1,0 +1,7 @@
+Phát triển TT | Trạng thái kề      | Danh sách L1  | Danh sách L           
+A             | C, D, E            | [D6, E7, C15] | [D6, E7, C15]         
+D             | I, F               | [I8, F10]     | [I8, F10, E7, C15]    
+I             | B, G               | [B0, G5]      | [B0, G5, F10, E7, C15]
+B             | Tìm thấy-TTKT Dừng |               |                       
+
+Đường đi là: A => D => I => B
